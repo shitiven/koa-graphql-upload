@@ -1,7 +1,11 @@
 {
   "name": "koa-graphql-upload",
   "version": "0.1.0",
-  "description": "File upload middleware for Koa GraphQL http server ",
+  "description": "File upload middleware for koa-graphql (Koa Graphql Http Server)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EasingLab/koa-graphql-upload.git"
+  },
   "main": "dist/index.js",
   "directories": {
     "lib": "./dist"
