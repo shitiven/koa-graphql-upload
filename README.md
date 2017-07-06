@@ -1,4 +1,6 @@
 # koa-graphql-upload
+[![Build Status](https://travis-ci.org/EasingLab/koa-graphql-upload.svg?branch=master)](https://travis-ci.org/EasingLab/koa-graphql-upload)
+[![Coverage Status](https://coveralls.io/repos/github/EasingLab/koa-graphql-upload/badge.svg)](https://coveralls.io/github/EasingLab/koa-graphql-upload)
 File upload middleware for koa-graphql (Koa Graphql Http Server)
 
 ## install
